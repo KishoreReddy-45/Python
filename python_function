@@ -1,0 +1,16 @@
+a=int(input("Enter a value of a:"))
+b=int(input("Enter a value of b:"))
+
+def addition():
+    print("addition:",a+b)
+def Sub():
+    print("sub:",a-b)
+def multiplication():
+    print("mul:",a*b)
+def divison():
+    print("div",a%b)
+        
+addition()
+Sub()
+multiplication()
+divison()
