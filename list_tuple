@@ -1,0 +1,19 @@
+#A list is a fundamental data structure in programming that allows you to store a collection of items. 
+#Lists are ordered and can contain elements of various data types, such as numbers, strings, and objects.
+
+
+students_names = ["kishore", "Reddy", "Ramu", "Guru", "Rohit"]
+
+#since lists are mutable to add the variable to the list use the function keyword "append".
+
+students_names.append("Raghu")
+print(students_names)
+print(len(students_names))
+
+
+#tuple
+#A tuple is a data structure similar to a list, but unlike lists, tuples are immutable, meaning their contents cannot be changed after creation. 
+#Tuples are typically used for grouping related data.
+
+students_names = ("kishore", "Reddy", "Ramu", "Guru", "Rohit")
+print(students_names)
