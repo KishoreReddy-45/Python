@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KishoreReddy-45
-- 👀 I’m interested in Big Data Engineering
+- 👋 Hi, I’m Kishore Reddy
+- 👀 interested in Big Data Engineering
 - 🌱 I’m currently working with Big data Technologies
-- 💞️ I’m looking to collaborate on Data related tasks.
+- 💞️ looking to collaborate on Data related tasks.
 - 📫 How to reach me @kishureddy720@gmail.com
 
 <!---
